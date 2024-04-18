@@ -1,0 +1,14 @@
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/bin/Debug/net8.0/psbb
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/bin/Debug/net8.0/psbb.deps.json
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/bin/Debug/net8.0/psbb.runtimeconfig.json
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/bin/Debug/net8.0/psbb.dll
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/bin/Debug/net8.0/psbb.pdb
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/obj/Debug/net8.0/psbb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/obj/Debug/net8.0/psbb.AssemblyInfoInputs.cache
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/obj/Debug/net8.0/psbb.AssemblyInfo.cs
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/obj/Debug/net8.0/psbb.csproj.CoreCompileInputs.cache
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/obj/Debug/net8.0/psbb.dll
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/obj/Debug/net8.0/refint/psbb.dll
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/obj/Debug/net8.0/psbb.pdb
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/obj/Debug/net8.0/psbb.genruntimeconfig.cache
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/psbb/psbb/obj/Debug/net8.0/ref/psbb.dll
